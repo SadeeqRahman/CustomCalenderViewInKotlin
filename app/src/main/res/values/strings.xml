@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomCalenderViewInKotlin</string>
+    <string name="sun">sun</string>
+    <string name="mon">mon</string>
+    <string name="tue">tue</string>
+    <string name="wed">wed</string>
+    <string name="thu">thu</string>
+    <string name="fri">fri</string>
+    <string name="sat">sat</string>
+    <string name="last_date">last date</string>
+</resources>
